@@ -462,6 +462,7 @@ padding: 100px 0;
     body {
         width: 100%;
         display:grid;
+        height:120vh;
     };
     .max-width
 {
