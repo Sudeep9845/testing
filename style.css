@@ -462,8 +462,11 @@ padding: 100px 0;
     body {
         width: 100%;
         display:grid;
-        height:120vh;
-    };
+    }
+    .home
+    {
+        height: 136vh;
+    }
     .max-width
 {
     
